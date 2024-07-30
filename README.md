@@ -22,5 +22,14 @@ Clone the repository:
 git clone https://github.com/ServerSync/DanielaWytte.git
 cd DanielaWytte
 
+## Usage 
 
+Navigate to the project directory and run the project using your preferred C# IDE or the command line.
+
+For example:
+
+cd ProjectDirectory
+dotnet run
+
+## Pinned Projects
 
